@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Studenti"
         mc:Ignorable="d"
-        Title="Rezultati" Height="600" Width="800" Background="Bisque" Loaded="Window_Loaded">
+        Title="Rezultati11" Height="600" Width="800" Background="Bisque" Loaded="Window_Loaded">
     <Grid>
         <Grid.RowDefinitions>
 
