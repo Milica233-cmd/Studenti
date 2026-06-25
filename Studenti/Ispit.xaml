@@ -7,7 +7,7 @@
         xmlns:wf="clr-namespace:Microsoft.Reporting.WinForms;assembly=Microsoft.ReportViewer.WinForms"
         xmlns:WindowsFormsIntegration="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
         mc:Ignorable="d"
-        Title="Ispit" Height="450" Width="800" Background="BlanchedAlmond" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+        Title="Ispit5" Height="450" Width="800" Background="BlanchedAlmond" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="35"></RowDefinition>
